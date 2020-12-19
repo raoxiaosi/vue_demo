@@ -20,6 +20,8 @@ npm run build --report
 ```
 
 #### <a href="./note/指令集合.md">指令集合</a>
+#### <a href="./note/组件之间的通讯.md">组件之间的通讯</a>
+#### <a href="./note/网络请求.md">网络请求</a>
 
 
 
