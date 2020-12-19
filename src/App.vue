@@ -1,5 +1,5 @@
 <template>
-  <Comment/>
+<!--  <Comment/>-->
 </template>
 
 <script>
